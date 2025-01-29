@@ -68,7 +68,7 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 - [Console-idated](https://modrinth.com/modpack/console-idated) by S_N00B (Has LEM compatibility)
 - [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso and ViolaFlower Modding
 - [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by bowen, devin, Emmie and Violaflower Modding
-- [William's Console: Classic](https://modrinth.com/modpack/williams-console) by ContraryBaton60
+- the original [William's Console](https://modrinth.com/modpack/williams-console) by William
 
 ## Need a server?
 [![BisectHosting Partnership](https://cdn.modrinth.com/data/cached_images/3d811a958c28645cf1007ccc3d90cb282921bf7f.webp)](https://bh.naomieow.xyz/raamviot50)
@@ -84,7 +84,7 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 
 
 ## Developers
-- omoso, Maintainer
+- bowen, Maintainer
 - William, Author, Maintainer
 
 **Want to keep up with Development? Join the [ViolaFlower Discord](https://discord.gg/kprFeAn7Gq) for sneak peeks and updates on development!**
