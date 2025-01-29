@@ -15,20 +15,7 @@ William's Console is a hard fork of Re-Console which adds new features and QoL c
 
 ## Special Thanks
 - [bowen/omoso](https://modrinth.com/user/bowen) for giving me permission to fork Re-Console.
-- [Wilyicaro](https://modrinth.com/user/wilyicaro), for making the Legacy4J mod.
 - And all other mod developers who made this project possible.
-
-## Help and Support
-- If you encounter an issue or bug within this modpack and wish to report it, [make an issue](https://github.com/contrarybaton60/Williams-Console/issues) within this Github repository.
-- If you encounter a bug specific to an individual mod, not caused by this modpack, please report it directly to the mod's author.
-- If you have a problem trying to run this modpack on MacOS, [consider reading this.](https://github.com/contrarybaton60/Williams-Console/wiki/Running-Legacy4J-on-MacOS)
-
-## Not your cup of tea?
-Thats fine! Consider checking out;
-- [Console-idated](https://modrinth.com/modpack/console-idated) by N00B (Has LEM compatibility)
-- [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition) by omoso
-- [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by omoso & more
-- [Better Adventures++ LCE](https://modrinth.com/modpack/better-adventures++-lce) by FluffyPuppyKasey
 
 ## Credits and Licensing
 - William (better known as ContraryBaton60), Lead Developer
