@@ -14,12 +14,12 @@ William's Console is a hard fork of Re-Console which adds new features and QoL c
 ![a sleeping bag, crafting table and campfire in cherry grove biome](https://cdn.modrinth.com/data/RonOSA8X/images/c1fc5ced8756feeab2eacd5ba970e65e66719357.png)
 
 ## Special Thanks
-- [bowen/omoso](https://modrinth.com/user/bowen) for giving me permission to fork Re-Console.
+- [bowen](https://modrinth.com/user/bowen) for giving me permission to fork Re-Console.
 - And all other mod developers who made this project possible.
 
 ## Credits and Licensing
 - William (better known as ContraryBaton60), Lead Developer
-- [omoso](https://modrinth.com/user/bowen), Contributor - [Support him on Ko-fi](https://ko-fi.com/omoso)
+- [bowen](https://modrinth.com/user/bowen), Contributor - [Ko-fi](https://ko-fi.com/omoso)
 
 This project uses the the Apache License v2.0. 
 
