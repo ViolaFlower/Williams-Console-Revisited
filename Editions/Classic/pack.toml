@@ -1,0 +1,13 @@
+name = "William's Console: Classic"
+author = "William & ViolaFlower Modding"
+version = "1.3.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c36af511ca54599e6b9ced7acd95bd671866e2415818bbddb47faae38172231"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

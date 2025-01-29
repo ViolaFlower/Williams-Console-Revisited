@@ -1,0 +1,18 @@
+{
+  "description": {
+    "translate": "legacy.menu.assorts.minecraft.description"
+  },
+  "background": "legacy:icon/background",
+  "packs": [
+    "vanilla",
+    "fabric",
+    "legacy:console_aspects",
+    "celestria:pixelperfect",
+    "continuity:default",
+    "file/williams-console-resources.zip"
+  ],
+  "id": "minecraft",
+  "name": {
+    "translate": "legacy.menu.assorts.minecraft"
+  }
+}

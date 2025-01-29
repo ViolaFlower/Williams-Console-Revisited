@@ -1,0 +1,13 @@
+name = "Custom Window Title"
+filename = "CustomWindowTitle-1.21+v1.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RGH5gtzF/versions/4qvcVd1p/CustomWindowTitle-1.21%2Bv1.4.0.jar"
+hash-format = "sha512"
+hash = "879fd3559d1f57f464c81af575d330e86ebe7ac2124fa7efda93af9d20d37dd1d5f0efb3d33b3df170d0de61490425838140bfe34fc13482d67b98387fed1fb6"
+
+[update]
+[update.modrinth]
+mod-id = "RGH5gtzF"
+version = "4qvcVd1p"

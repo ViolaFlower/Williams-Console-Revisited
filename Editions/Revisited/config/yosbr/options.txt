@@ -1,0 +1,7 @@
+simulationDistance:5
+onboardAccessibility:true
+reducedDebugInfo:true
+shieldIndicator:1
+attackIndicatorMaxValue:2.0
+attackIndicatorMinValue:1.3
+attackIndicator:0
