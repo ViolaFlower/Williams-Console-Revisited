@@ -19,7 +19,7 @@ William's Console: Revisited (or "WC:R" for short) is a remastered release of th
 # 🎯 Goals
 
 ### 🎯 Replayability
-WC:R seeks to give a replayable, diverse experience! Whether it be via a new combat system, awesome terrain generation, or new mobs, it delivers a dynamic playthrough every time you play it
+WC:R seeks to give a replayable, diverse experience! Whether it be via a new combat system, awesome terrain generation, or new mobs, it delivers a dynamic playthrough every time you play it.
 
 ### ⚙️ Open Source
 WC:R is comprised of only open-source or source-available mods, which gives you the ability to see the code and contribute to the mods in the pack. Without mod developers hard work, this modpack would not be possible. If you want to show the developers of these mods your appreciation, I encourage you to donate to them!
