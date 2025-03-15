@@ -4,13 +4,12 @@ William's Console: Revisited is a modpack that attempts to expand onto an idea; 
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/williams-console-revisited)
 [<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Legacy-Union/Re-Console/releases) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/) [<img alt="adrenaline" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/adrenaline_vector.svg">](https://modrinth.com/modpack/adrenaline) [<img alt="kofi-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg">](https://ko-fi.com/omoso)
 
-![Banner](https://cdn.modrinth.com/data/w4UMynmM/images/bf221ddbec5ab3eaa6bb5786afe466b6172a40f6.png)
+![Banner](https://cdn.modrinth.com/data/cached_images/272df5f5a97506813715bc1cbf3716ddb98dc88c.webp)
 
 
 
 
-
-![Information](https://cdn.modrinth.com/data/cached_images/e25570e1d156c711baad158a5565061b157a94e9.webp)
+![Information](https://cdn.modrinth.com/data/cached_images/595f99160e4e4da286353f62ebf63989f2837f23.webp)
 
 
 
@@ -34,7 +33,7 @@ This means it comes with all the features within [Adrenaline](https://modrinth.c
 
 
 
-![Features](https://cdn.modrinth.com/data/cached_images/97029679acef552aaa93810310bee9e0f287dc5d.webp)
+![Features](https://cdn.modrinth.com/data/cached_images/0fb36c94de6f3cc62df72c9a696fc85481089c5e.webp)
 
 William's Console: Revisited comes with a lot of QoL and cool features which can enhance your experience.
 
@@ -69,7 +68,7 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 - the original [William's Console](https://modrinth.com/modpack/williams-console) by William
 
 ## Need a server?
-[![BisectHosting Partnership](https://cdn.modrinth.com/data/cached_images/3d811a958c28645cf1007ccc3d90cb282921bf7f.webp)](https://bh.naomieow.xyz/raamviot50)
+[![BisectHosting Partnership](https://cdn.modrinth.com/data/cached_images/54809211baf5531a96e7a3eadebdfd30b8ea1e6d.webp)](https://bh.naomieow.xyz/raamviot50)
 
 <details>
 <summary>Credits</summary>
