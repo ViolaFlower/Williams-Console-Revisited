@@ -417,6 +417,11 @@ hash = "72849c84af6ec19ce9138e65fc855e929fd53a1293234a466acb76cffe205dbf"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
 file = "mods/resolution-control-plus-plus.pw.toml"
 hash = "49b4b01eb3aae1cd5c78da42945be2635d4adfe525404fdc046c8bf73d9f8b34"
 metafile = true
