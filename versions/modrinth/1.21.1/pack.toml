@@ -1,12 +1,12 @@
 name = "William's Console: Revisited"
 author = "William & ViolaFlower Modding"
-version = "2.0.0"
+version = "2.0.0+mc1.21.1+fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "60186948b736e414b14a3052afe11bbc962a416b749df85eddc7a1344fbb75ab"
+hash = "6ede216a16a527f17c4a1769c8b2124405c83d05fc12951f0cb72b1a6a6c556c"
 
 [versions]
 fabric = "0.16.14"
