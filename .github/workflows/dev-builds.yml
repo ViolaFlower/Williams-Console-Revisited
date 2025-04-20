@@ -61,7 +61,7 @@ jobs:
       run: |
           mkdir $OUTPUT
           
-          mv ./Revisited-modr-1.21.1-temp/${PACK_NAME}-Revisited-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
+          mv ./Revisited-modr-1.21.1-temp/${PACK_NAME}-Revisited-Modrinth-1.21.1-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
           mv ./Classic-temp/${PACK_NAME}-Classic-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
 
     - name: Upload artifacts
