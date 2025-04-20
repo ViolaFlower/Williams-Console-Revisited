@@ -1,6 +1,6 @@
 name = "William's Console: Revisited"
 author = "William & ViolaFlower Modding"
-version = "2.6"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "108dc33a0351edd426b0e3fe3385c793b822f8e91f528c05a199c99ac7b00af9"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.14"
 minecraft = "1.21.1"
