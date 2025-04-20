@@ -34,22 +34,22 @@ jobs:
     - name: Prepare builds
       run: |
           mkdir Revisited-temp
-          cp -r ./Editions/Revisited/* ./Revisited-temp/
-          cp ./LICENSE ./Revisited-temp/
-          cp ./README.md ./Revisited-temp/
-          cp ./CREDITS.md ./Revisited-temp/
+          cp -r ./versions/modrinth/1.21.1/* ./Revisited-modr-1.21.1-temp/
+          cp ./LICENSE ./Revisited-modr-1.21.1-temp/
+          cp ./README.md ./Revisited-modr-1.21.1-temp/
+          cp ./CREDITS.md ./Revisited-modr-1.21.1-temp/
 
           mkdir Classic-temp
-          cp -r ./Editions/Classic/* ./Classic-temp/
+          cp -r ./versions/archived/classic/* ./Classic-temp/
           cp ./LICENSE ./Classic-temp/
           cp ./README.md ./Classic-temp/
           cp ./CREDITS.md ./Classic-temp/
           
-    - name: Create Revisited build
+    - name: Create Revisited builds
       run: |
-          cd ./Revisited-temp/
+          cd ./Revisited-modr-1.21.1-temp/
           packwiz refresh
-          packwiz modrinth export --output ${PACK_NAME}-Revisited-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack
+          packwiz modrinth export --output ${PACK_NAME}-Revisited-Modrinth-1.21.1-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack
 
     - name: Create Classic build
       run: |
@@ -61,7 +61,7 @@ jobs:
       run: |
           mkdir $OUTPUT
           
-          mv ./Revisited-temp/${PACK_NAME}-Revisited-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
+          mv ./Revisited-modr-1.21.1-temp/${PACK_NAME}-Revisited-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
           mv ./Classic-temp/${PACK_NAME}-Classic-dev-${{ env.COMMIT_SHORT_SHA }}.mrpack ${OUTPUT}/
 
     - name: Upload artifacts
