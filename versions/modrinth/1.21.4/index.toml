@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "578b663599a5687c8b96a7ed89af21eef3499f7daa20611d271701aa06ad6fe7"
+hash = "02bdd2b6f48bce71be2c034dfe9353adc3331de28a4c6fd3a8de287a5a4580d9"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "affd2c74a93b0de69843fd37978406247b5a9714534429d47ff55fb6c3354c5d"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "ba343241dd8b3d3071680e2656432fcf2ab7e094822c8c599da24a0a8c59af8f"
+hash = "064418cb6d530c800bb3b6d8cc80a2d22dcefe49f8c7158fe362fa2941eef19f"
 metafile = true
 
 [[files]]
