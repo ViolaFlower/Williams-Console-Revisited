@@ -109,6 +109,11 @@ hash = "89ff47b56152929c67e8cf972f18aac7f9ff8bd01970362521d09aba1da6027c"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "578b663599a5687c8b96a7ed89af21eef3499f7daa20611d271701aa06ad6fe7"
 metafile = true
 
 [[files]]
@@ -181,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "69c5ae686703cc74e092591cd5a1939bd5cc2e8522f928c77a77ab803be5e77e"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
 
 [[files]]
@@ -259,6 +274,11 @@ hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
 
 [[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "0f9a9042aaea1f95a68c87325715308564ad6b173437dbcc3f7ac1c63d71b87d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
@@ -289,6 +309,11 @@ hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "ee92e804c6ffd6509e621421b9906efa0f654885053b1ea00c7e4a4eb55dae17"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
@@ -301,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "e738806b1099f2b4b950ec57816582f3b7afd7a0074a250e3f120aa78350bc7e"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "58e380b4d66907130eaa480252def925457d1033100571c946aaf9179a1e7bde"
 metafile = true
 
 [[files]]
@@ -359,6 +389,11 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "a60a3daa425e1d278d5a51abc60d3818979278970559ee1d392757c0b3e4f50b"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
@@ -380,5 +415,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/williams-console-resources.pw.toml"
-hash = "c6b508eaa955a34ec49b6b066451b3285ec2559a3098692846b3e077041e6603"
+hash = "a9f6dcc9cebbb5843a1a77160c7b81701ae6df5cb0ff71d79d9baeef3c41f6ce"
 metafile = true

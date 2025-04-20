@@ -1,13 +1,13 @@
 name = "William's Console Resources"
-filename = "williams-console-resources.zip"
+filename = "wcr1.21.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IRjSpEY8/versions/R4JEKVfw/williams-console-resources.zip"
+url = "https://cdn.modrinth.com/data/IRjSpEY8/versions/5y7XGgk8/wcr1.21.1.zip"
 hash-format = "sha512"
-hash = "3ba5e29b1068e36432c7bffd0bee94e674bbfebb655f674995742192b0a0764f1202d8fa5c508da3e46c19586fd22b17525791d931f9bcf82a6864c0e7cce816"
+hash = "451925686afc5c5ccc6877b88fe79508b7437f5ab5b1fb623be183b8be16985d33d4bf3a648440fe795fa1c485730a314270466e31fded384ecd5276a3e3d3e2"
 
 [update]
 [update.modrinth]
 mod-id = "IRjSpEY8"
-version = "R4JEKVfw"
+version = "5y7XGgk8"
