@@ -252,6 +252,11 @@ hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
 metafile = true
 
 [[files]]
+file = "mods/factory-api.pw.toml"
+hash = "8d6cb7e5cd8619b40c77903bc0be7178caa88cef4521559e6dec38d21471bbef"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "65bb8ced1d1f0db51dad9d5f22d433a203b53dcbccfce7abf19b530ace9b6ded"
 metafile = true
@@ -334,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6c9f10bdf4115e50a103edd700902ba55f34b1321fa58a692d35e97cc110d511"
 metafile = true
 
 [[files]]
@@ -423,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "3f2defd47f7bf918081f55b95db35850110bfe90556ac25346e2a9d31821b353"
+hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
 metafile = true
 
 [[files]]
