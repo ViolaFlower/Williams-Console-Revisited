@@ -477,6 +477,11 @@ hash = "a60a3daa425e1d278d5a51abc60d3818979278970559ee1d392757c0b3e4f50b"
 metafile = true
 
 [[files]]
+file = "mods/worldgen-patches.pw.toml"
+hash = "a39b36424f533c3782535b2e47fde1fb3f26eb60eb11f2fef411910d0cec0e62"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
 metafile = true
